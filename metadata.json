@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Complete Hotel Booking & Management Solution",
+  "description": "Full-stack hotel booking and management platform with guest reservations, room inventory matrix, front-desk check-in/out, and folio billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
